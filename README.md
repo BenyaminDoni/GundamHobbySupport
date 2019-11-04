@@ -1,6 +1,6 @@
 # Gundam Hobby Support
 
-Gundam Hobby Support merupakan aplikasi online shop yang bertujuan untuk mengsupport hobby para penggemar Gundam, dengan menyedikan berbagai macam modul Gundam terbaru yang dapat dibeli dengan harga yang bersahabat.
+Gundam Hobby Support merupakan aplikasi online shop yang bertujuan untuk mendukung hobi para penggemar Gundam, dengan menyediakan berbagai macam modul Gundam terbaru yang dapat dibeli dengan harga yang bersahabat.
 
 ## Getting Started
 
@@ -64,7 +64,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Apholos Yuang Arka Saputra (71160103)
+Benyamin D A Perkasa Taolin (71160106)
+Reza Reynaldi Irawan (71160111)
 
 ## Versioning
 
