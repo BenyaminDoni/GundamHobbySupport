@@ -64,9 +64,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Apholos Yuang Arka Saputra (71160103)
-Benyamin D A Perkasa Taolin (71160106)
-Reza Reynaldi Irawan (71160111)
+*Apholos Yuang Arka Saputra (71160103)
+*Benyamin D A Perkasa Taolin (71160106)
+*Reza Reynaldi Irawan (71160111)
 
 ## Versioning
 
